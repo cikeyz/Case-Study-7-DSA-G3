@@ -2,7 +2,7 @@
 
 SortViz is a modern, interactive web application that visualizes various sorting algorithms in real-time. It helps users understand how different sorting algorithms work through dynamic visualization and educational information.
 
-![SortViz](screenshot.png) *(Add a screenshot of your application)*
+![SortViz](screenshot.png)
 
 ## Features
 
